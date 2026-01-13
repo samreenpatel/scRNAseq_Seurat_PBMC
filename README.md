@@ -19,4 +19,4 @@ using Seurat. The analysis is intended for educational and demonstration
 purposes.
 
 ## Status
-Project setup in progress.
+Status: QC completed (mitochondrial filtering applied).
