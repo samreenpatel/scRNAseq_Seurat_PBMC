@@ -19,4 +19,7 @@ using Seurat. The analysis is intended for educational and demonstration
 purposes.
 
 ## Status
-Status: QC completed (mitochondrial filtering applied).
+- Quality control completed (mitochondrial filtering applied)
+- Data normalized (LogNormalize, scale factor = 10,000)
+- Highly variable genes identified (2,000 features using VST method)
+
